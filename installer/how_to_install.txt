@@ -1,0 +1,4 @@
+<How_to_install>
+Please run this file in Android.
+GHOSTi is abailable to select IP-adress and port number.
+※現在、画像転送＆受信は使用できません。

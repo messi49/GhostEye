@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GhostEye</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="Port">Port number</string>
+    <string name="IPaddress">IP address</string>
+    <string name="car">Car</string>
+    <string name="human">Human</string>
+    <string name="sign">Traffic sign</string>
+    <string name="lane">Traffic lane</string>
+    <string name="start">Start</string>
+
+</resources>
